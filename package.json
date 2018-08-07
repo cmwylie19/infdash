@@ -1,5 +1,5 @@
 {
-  "name": "infdash",
+  "name": "1nf1nx",
   "version": "0.0.1",
   "description": "\"Configuration and styling\"",
   "dependencies": {
@@ -45,5 +45,6 @@
   "bugs": {
     "url": "https://github.com/cmwylie19/infdash/issues"
   },
-  "homepage": "https://github.com/cmwylie19/infdash#readme"
+  "homepage": "https://github.com/cmwylie19/infdash#readme",
+  "main": "index.js"
 }
